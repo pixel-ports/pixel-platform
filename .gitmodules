@@ -4,3 +4,6 @@
 [submodule "DataAcquisitionLayer"]
 	path = DataAcquisitionLayer
 	url = https://github.com/pixel-ports/DataAcquisitionLayer.git
+[submodule "Installation"]
+	path = Installation
+	url = https://github.com/pixel-ports/Installation.git
